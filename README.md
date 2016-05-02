@@ -14,8 +14,7 @@ POKER GAME README FILE
 
 OVERVIEW:
 
-    This program creates a poker game that allows a user to play against a cpu dealer. This is regular poker rules with a 
-deck of 52 cards, with 13 face cards for each of the 4 suits. The player and the dealer are both dealt 5 cards from the
+This program creates a poker game that allows a user to play against a cpu dealer. This is regular poker rules with a deck of 52 cards, with 13 face cards for each of the 4 suits. The player and the dealer are both dealt 5 cards from the
 deck and the goal of the game is to have the better hand. The player will have the option of viewing and discarding up to 
 3 of their cards in order to try to draw better cards. The dealer will have the same opportunity but is done automatically
 by the program based on the hand that the dealer has been dealt. A winner is determined based on the final hand values
